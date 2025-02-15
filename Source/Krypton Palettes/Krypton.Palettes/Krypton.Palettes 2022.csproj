@@ -10,7 +10,7 @@
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
-		<OutputPath>...\..\..\Bin\$(Configuration)\</OutputPath>
+		<OutputPath>..\..\..\Bin\$(Configuration)\</OutputPath>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 		<Nullable>enable</Nullable>
 		<LangVersion>preview</LangVersion>
