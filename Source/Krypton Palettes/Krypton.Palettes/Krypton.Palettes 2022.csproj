@@ -9,6 +9,7 @@
 		<AssemblyName>Krypton.Palettes</AssemblyName>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
+		<Configurations>Debug;Release;Installer;Nightly;Canary</Configurations>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<OutputPath>..\..\..\Bin\$(Configuration)\</OutputPath>
 		<AllowUnsafeBlocks>true</AllowUnsafeBlocks>
