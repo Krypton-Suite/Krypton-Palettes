@@ -1,6 +1,12 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 	<PropertyGroup>
 		<TargetFrameworks>net462;net47;net471;net472;net48;net481;net8.0-windows;net9.0-windows</TargetFrameworks>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<OutputType>Library</OutputType>
+		<RootNamespace>Krypton.Palettes</RootNamespace>
+		<AssemblyName>Krypton.Palettes</AssemblyName>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
